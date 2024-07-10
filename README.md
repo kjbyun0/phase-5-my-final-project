@@ -1,7 +1,7 @@
 # Phase 5 Final Project: Fake Amazon App
 
 ## Project Description
-This application is a simplified version of the e-commerce site. There are two types of user account, seller and customer. The customer account is to register a new product or update a product, to view a list of orders need to be shipped, and to check the seller's sales performanace. And the customer account is to view a list of products, to move products to cart, to order products and to review purchased products. 
+This application is a simplified version of the e-commerce site. There are two types of user account, seller and customer. The seller account is to register a new product or update a product, to view a list of orders need to be shipped, and to check the seller's sales performanace. And the customer account is to view a list of products, to move products to cart, to order products and to review purchased products. 
 
 The frontend application is developed using react, formik, yup, react-dropzone, cloudinary and semantic ui react, and the backend application is developed using Flask, SQLite/Postgres and Elastic Search engine.
 
