@@ -21,6 +21,8 @@ The frontend application is developed using react, formik, yup, react-dropzone, 
 ## Demo
 ![](https://github.com/kjbyun0/phase-5-my-final-project/blob/main/ForREADME.gif)
 
+Video Walkthrough: [https://youtu.be/vpwsGoBenx4](https://youtu.be/vpwsGoBenx4)
+
 ## Credits
 I reviewed Amazon site and tried to follow its main designs.
 
